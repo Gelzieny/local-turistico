@@ -33,7 +33,7 @@ Criar uma landing page que apresente um destino turístico, aplicando conceitos 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/xLXR0Kdn3V9Z03ecdtNpwb/Local-Tur%C3%ADstico--Community---Copy-?node-id=0-1&p=f&t=4bOOsputfneZP6WH-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [Local Turístico](https://www.figma.com/design/xLXR0Kdn3V9Z03ecdtNpwb/Local-Tur%C3%ADstico--Community---Copy-?node-id=0-1&p=f&t=4bOOsputfneZP6WH-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ---
 
